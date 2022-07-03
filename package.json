@@ -1,0 +1,22 @@
+{
+  "name": "is-numeric-character",
+  "version": "1.0.0",
+  "description": "Is the character entered Numeric?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-Krish/is-numeric-character.git"
+  },
+  "keywords": [
+    "numeric-character"
+  ],
+  "author": "Krishna Bogati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coder-Krish/is-numeric-character/issues"
+  },
+  "homepage": "https://github.com/Coder-Krish/is-numeric-character#readme"
+}
